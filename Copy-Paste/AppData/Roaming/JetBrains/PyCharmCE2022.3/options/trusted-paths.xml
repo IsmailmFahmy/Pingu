@@ -1,0 +1,18 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="C:\Users\Fahmy\Desktop" value="true" />
+        <entry key="C:\Users\Fahmy\PycharmProjects\A2 Computer science" value="true" />
+        <entry key="C:\Users\Fahmy\PycharmProjects\Howgay" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="C:\Users\Fahmy\PycharmProjects" />
+      </list>
+    </option>
+  </component>
+</application>
